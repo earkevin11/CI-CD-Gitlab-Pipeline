@@ -3,7 +3,7 @@
 ## This pipeline is all defined by a Gitlab YAML file.
 
 - Once you have your directory and terraform files and yaml file set up your good to go.
-- <img width="342" height="286" alt="image" src="https://github.com/user-attachments/assets/746c159c-6857-4bed-8c8f-8e4df2805d50" />
+<img width="342" height="286" alt="image" src="https://github.com/user-attachments/assets/746c159c-6857-4bed-8c8f-8e4df2805d50" />
 
 
 ## 1. Creating a new branch and commiting it. Never commit directly to the Main branch!
