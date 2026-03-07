@@ -1,6 +1,27 @@
 # HOW TO: Run Terraform to Deploy Azure Infrastrcture using a CI-CD-Gitlab-Pipeline
 
-## This pipeline is all defined by a Gitlab YAML file.
+## Issue: 
+- Save hours and replace manual tasks of clicking around Azure console to create Azure infrastructure
+
+## End Goal:
+- Automate Azure Infrastructure provisioning using Terraform Infrastructure as Code in a Gitlab CI/CD Pipeline. Be able to quickly provision and destroy resources for Cloud Security team instead.
+
+## Prerequisites
+- Gitlab Project
+- 4 terraform files
+- - main.tf
+  - providers. tf
+  - variables.tf
+  - tfvars.tf
+- App Registration in Entra ID (acts as the identity that is deploying the Azure resources)
+- Gitlab yaml file
+- Access token
+- State file
+- 4 varibles in Gitlab CI/CD for
+- - client secret
+- - service principal object id
+- - subscription id
+- - tenant id
 
 - Once you have your directory and terraform files and yaml file set up your good to go.
 <img width="342" height="286" alt="image" src="https://github.com/user-attachments/assets/746c159c-6857-4bed-8c8f-8e4df2805d50" />
