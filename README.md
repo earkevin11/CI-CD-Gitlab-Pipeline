@@ -2,6 +2,10 @@
 
 ## This pipeline is all defined by a Gitlab YAML file.
 
+- Once you have your directory and terraform files and yaml file set up your good to go.
+- <img width="342" height="286" alt="image" src="https://github.com/user-attachments/assets/746c159c-6857-4bed-8c8f-8e4df2805d50" />
+
+
 ## 1. Creating a new branch and commiting it. Never commit directly to the Main branch!
 - When you make a change to the source code, you should create a new branch and commit so that it goes through the Merge Request pipeline.
 <img width="1135" height="349" alt="image" src="https://github.com/user-attachments/assets/073d171c-acdf-4031-9b13-4f965962a89d" />
