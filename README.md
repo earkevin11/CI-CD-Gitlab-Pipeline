@@ -1,4 +1,4 @@
-# CI-CD-Gitlab-Pipeline
+# HOW TO: Run Terraform to Deploy Azure Infrastrcture using a CI-CD-Gitlab-Pipeline
 
 ## This pipeline is all defined by a Gitlab YAML file.
 
