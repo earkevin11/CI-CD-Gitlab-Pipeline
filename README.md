@@ -1,4 +1,4 @@
-# HOW TO: Run Terraform to Deploy Azure Infrastrcture using a CI-CD-Gitlab-Pipeline
+# How To Run Terraform to Deploy Azure Infrastrcture using a CI-CD-Gitlab-Pipeline
 
 ## Issue: 
 - Save hours and replace manual tasks of clicking around Azure console to create Azure infrastructure
